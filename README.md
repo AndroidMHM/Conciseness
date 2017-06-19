@@ -2,7 +2,7 @@
 
 Ö÷ÌâÔ¤ÀÀÍ¼ÈçÏÂËùÊ¾£º
 
-![54999990-file_1487997191856_69e5.png](https://www.tuchuang001.com/images/2017/06/13/54999990-file_1487997191856_69e5.png)
+![54999990-file_1487997191856_69e5.png](https://github.com/wuyouzhuguli/Conciseness/blob/master/images/screenshot.png)
 
 ¸ÃÖ÷Ìâ¿É×ÔĞĞĞŞ¸Ä£¬ÕâÀï×ö¼¸µã½éÉÜ¡£     
 ## ĞŞ¸ÄÍ¼Æ¬
@@ -103,7 +103,7 @@ titleÎª¸èÇúÃû£¬artistÎª¸èÊÖÃû£¬mp3ÎªÒôÀÖÁ¬½Ó£¬coverÎª×¨¼­·âÃæ¡£¹ØÓÚÕâ¼¸¸öÖµµÄ»ñÈ
 ## µ¯³ö²ã
 Ò³Ãæµ¯³ö²ãÊ¹ÓÃµÄÊÇsweetAlert.js²å¼ş¡£µ±É¾³ıÆÀÂÛÒÔ¼°Î´µÇÂ¼×´¿öÏÂµã»÷²©ÎÄµÄÆÀÂÛºÍµãÔŞ°´Å¥¼´¿É´¥·¢£¬Èç£º
 
-![67095376-file_1487997218085_ff4e.png](https://www.tuchuang001.com/images/2017/06/13/67095376-file_1487997218085_ff4e.png) 
+![67095376-file_1487997218085_ff4e.png](https://github.com/wuyouzhuguli/Conciseness/blob/master/images/67095376-file_1487997218085_ff4e.png) 
 
 ÏàÓ¦API¿É²é¿´sweetAlert²å¼ş¹ÙÍø¡£ÔÚÖ÷Ìâshare_comment.jsÎÄ¼şÖĞ¿ÉÕÒµ½Ïà¹Ø´úÂë¡£
 
