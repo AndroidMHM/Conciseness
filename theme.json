@@ -1,0 +1,59 @@
+/*
+以下是本主题的配置, 采用JSON格式
+其中Name, Version, Author, AuthorUrl请勿更改
+你也可以定义其它的配置, 在模板文件使用 $.themeInfo.Xxxxx来获取值(注意首字大写)
+
+注意: 
+1) JSON语法严格, 键必须用双引号, 最后不得有空','来结尾
+2) 以下配置不能包含任何注释, 不然解析会出错!
+
+配置说明：
+* Name 主题名。
+* Desc 主题说明。
+* Version 主题版本。
+* Author 主题的作者。
+* AuthorUrl 作者的链接。
+* BlogCopyrightTime 博客Copyright时间。
+* QQ 配置您的QQ。
+* Weico 配置您的微博。
+* Facebook 配置您的facebook
+* FriendLinks 友情链接。
+* BlogImgName 博客About Me图片
+* WebImgName 网页小图标
+* MusicUrl 配置音乐URL
+* ErrorImgName 404页面图片
+* BlogAutograph 博客About Me签名
+*/
+/* 如有疑问，可到mrbird.leanote.com下留言 */
+{
+    "Name": "Conciseness",
+    "Desc": "可在theme.json文件中修改blog配置",
+    "Version": "1.0",
+    "Author": "mrbird",
+    "AuthorUrl": "http://mrbird.leanote.com/",
+    "QQ": "123456",
+    "Weico": "http://weibo.com/",
+    "Facebook": "https://www.facebook.com/",
+    "FriendLinks": [
+        {"Title": "My Note", "Url": "https://leanote.com/note"},
+        {"Title": "Leanote Home", "Url": "https://leanote.com"},
+        {"Title": "Leanote BBS", "Url": "http://bbs.leanote.com"},
+        {"Title": "Leanote Github", "Url": "https://github.com/leanote/leanote"}
+    ],
+    "BlogCopyrightTime": "2016~2017",
+    "BlogAutograph": "love leanote",
+    "BlogImgName": "blogImg.jpg",
+    "WebImgName": "webImg.png",
+    "ErrorImgName": "robot.png",
+    "MusicUrl": [
+        {"title": "Born on the Cusp","artist":"TAAS","mp3": "http://m2.music.126.net/4WIAK6qvFHQvpJpWfNHZFg==/2056086743950201.mp3","cover": "http://p3.music.126.net/cTftrJPkUErPliz8LiDOyA==/1660262557947896.jpg"},
+	    {"title": "I am Love","artist":"Tearliner/Yozoh","mp3": "http://m2.music.126.net/uaICmNEH_cMVSVjHD3JXJQ==/3272146615811338.mp3","cover": "http://p4.music.126.net/urkEknajZVaZqNFBjJoNYg==/1365593480350699.jpg"},
+        {"title": "What I Saw","artist":"Doug Paisley","mp3": "http://m2.music.126.net/RyNrwZT8FIe0A9kvtCWvKg==/1324911511472079.mp3","cover": "http://p4.music.126.net/wbzIjm8dEaa6vFkvXJ3EIA==/6668538023345763.jpg"},
+        {"title": "Gymnopedies","artist":"Erik Satie","mp3": "http://m2.music.126.net/5Sl0BDxdFYBluYBaIR44hw==/5650390255245194.mp3","cover": "http://p4.music.126.net/xsgNlcCOjecDi5e8MB6l4g==/713583046433553.jpg"},
+        {"title": "Gooey","artist":"Glass Animals","mp3": "http://m2.music.126.net/5-Jkw3CiMLPRkoWgaX2-iA==/6015428115636017.mp3","cover": "http://p3.music.126.net/LrmamAjhYGC4ijTV4kSWyg==/6046214441209529.jpg"},
+        {"title": "Is It Over","artist":"Monta","mp3": "http://m2.music.126.net/ojMm2zwU5j779szFiFui7g==/2003310185818501.mp3","cover": "http://p4.music.126.net/e7wA_QuyCVXAykb9qn9Ubw==/847723465067340.jpg"},
+        {"title": "Let It Go","artist":"Joshua Hyslop","mp3": "http://m2.music.126.net/OxqEmMgYgJwVxqZrEM-6Vg==/3223768096467155.mp3","cover": "http://p3.music.126.net/GkkK8siXgvGBHROcZUNThg==/2534374305040713.jpg"},
+        {"title": "By the Way","artist":"Scott Orr","mp3": "http://m2.music.126.net/qB1fTxGne6nkTJcRJrae9A==/1396379771002281.mp3","cover": "http://p4.music.126.net/AS_dZFiTurT9RONyIU6Meg==/1377688073171847.jpg"},
+        {"title": "Rolle Me in Cotton","artist":"Ooberman","mp3": "http://m2.music.126.net/Sghrs2gYgUzW5Ua-doQzow==/5750445813362462.mp3","cover": "http://p3.music.126.net/13tfJfuYXDrKozDccTGN_A==/1722934720725594.jpg"}  
+    ]
+}
